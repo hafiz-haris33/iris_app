@@ -30,13 +30,12 @@ streamlit run app.py
 📂 File Structure
 
 iris_app/
-│
-├── app.py              # Main Streamlit app
-├── model.pkl           # Saved ML model (optional)
-├── requirements.txt    # Python dependencies
-├── README.md           # Project overview
-├── .gitignore          # Files/folders to exclude from Git tracking
-└── venv/               # Virtual environment (excluded via .gitignore)
+* app.py              # Main Streamlit app
+* model.pkl           # Saved ML model (optional)
+* requirements.txt    # Python dependencies
+* README.md           # Project overview
+* .gitignore          # Files/folders to exclude from Git tracking
+* venv/               # Virtual environment (excluded via .gitignore)
 
 📦 Dependencies
 streamlit
