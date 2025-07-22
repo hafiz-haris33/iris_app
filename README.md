@@ -50,8 +50,10 @@ matplotlib (if visualization used)
 All dependencies can be installed via:
 
 pip install -r requirements.txt
+
 📸 App Preview
 ![App screenshot](image.png)
+
 
 📌 License
 This project is for educational purposes only. You are free to use and modify it.
